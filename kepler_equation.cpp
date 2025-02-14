@@ -23,7 +23,6 @@ int main() {
     unsigned short precision = 16;  // Floating point length
 
     // This is my simple binary search algorithm
-    // It's slightly modified because I dont know how to normally integrate it
     double E;
     do {
         E = (start + end) / 2;
